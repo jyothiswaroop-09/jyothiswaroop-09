@@ -4,8 +4,10 @@
 Welcome to my GitHub profile! I'm a passionate data science and machine learning enthusiast who loves solving real-world problems using code and data. I'm currently exploring advanced ML workflows, building end-to-end projects, and learning more about production-ready ML systems.
 ation"
 ## 📫 Let's Connect!
-- 📧 Email: waroop.motupalli@gmail.com     
-- 💼 LinkedIn: [linkedin.com/in/jyothi-swaroop]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/jyothi-swaroop-278084338 ))
+- 📧 **Email**: swaroop.motupalli@gmail.com  
+- 📱 **Mobile**: +91 9553885915  
+- 💼 **LinkedIn**: [Jyothi Swaroop](https://www.linkedin.com/in/jyothi-swaroop-278084338)
+
 
 
 
