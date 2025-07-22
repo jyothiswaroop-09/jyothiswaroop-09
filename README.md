@@ -1,12 +1,33 @@
 # 💫 About Me:
-# 👋 Hi there, I'm Jyothi Swaroop
+<h1 align="center">👋 Welcome to My GitHub Profile!</h1>
 
-Welcome to my GitHub profile! I'm a passionate data science and machine learning enthusiast who loves solving real-world problems using code and data. I'm currently exploring advanced ML workflows, building end-to-end projects, and learning more about production-ready ML systems.
-ation"
+---
+
+💡 I'm a **passionate Data Science and Machine Learning enthusiast** who loves solving real-world problems using **code and data**.
+
+🚀 Currently exploring:
+- Advanced **Machine Learning workflows**
+- Building **end-to-end projects**
+- Learning about **production-ready ML systems**
+
+🛠️ Tech interests:
+- Predictive Modeling
+- Feature Engineering
+- Model Deployment
+- Cloud-based ML Pipelines
+
+---
+
 ## 📫 Let's Connect!
+
 - 📧 **Email**: swaroop.motupalli@gmail.com  
 - 📱 **Mobile**: +91 9553885915  
 - 💼 **LinkedIn**: [Jyothi Swaroop](https://www.linkedin.com/in/jyothi-swaroop-278084338)
+
+---
+
+⭐ Feel free to check out my projects, drop a star ⭐ on anything you like, and reach out for collaboration or discussion!
+
 
 
 
